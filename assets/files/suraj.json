@@ -1,0 +1,148 @@
+{
+    "products": [
+        {
+            "name": "Apple",
+            "tagline": "Think Different",
+            "tagline2": "Think Different",
+            "desc": "Apple inc. designs,manufactures, & markets smartphones,tablets, personal computers(PC), portable & wearable devices. The company also offers soft. & related services, accesories, networking solutions, & third party digital content & application",
+            "valuation": "$2.08 Trillion",
+            "color": "33505a",
+            "image": "assets/images/applee.jpg"
+        },
+        {
+            "name": "Microsoft",
+            "tagline": "We believe in what people make possible",
+            "tagline2": "We believe in what people make possible.",
+            "desc": "Microsoft Corporation is an American multinational technology corporation producing computer software, consumer electronics, personal computers, and related services headquartered at the Microsoft Redmond campus located in Redmond, Washington, United States.",
+            "valuation": "$2.01 Trillion",
+            "color": "33505a",
+            "image": "assets/images/microsoftt.webp"
+        },
+        {
+            "name": "Google",
+            "tagline": "Make life easier with a little help from our products.",
+            "tagline2": "Make life easier with a little help from our products.",
+            "desc": "Google is an American multinational technology company whose mission is to organize the world's information and make it universally accessible and useful.",
+            "valuation": "$2 Trillion",
+            "color": "33505a",
+            "image": "assets/images/google.jpg"
+        },
+        {
+            "name": "SpaceX",
+            "tagline": "Occupy Mars",
+            "tagline2": "Occupy Mars",
+            "desc": "SpaceX is an American spacecraft manufacturer, launcher, and a satellite communications corporation headquartered in Hawthorne, California.",
+            "valuation": "$127 billion",
+            "color": "33505a",
+            "image": "assets/images/spacex.jpg"
+        },
+        {
+            "name": "Tesla",
+            "tagline": "Acc. the advent of sustainable...",
+            "tagline2": "Accelerate the advent of sustainable transport and electric technology.",
+            "desc": "Tesla, Inc., formerly (2003 - 22) Tesla Motors, American manufacturer of electric automobiles, solar panels, and batteries for cars and home power storage.",
+            "valuation": "$617.5 billion",
+            "color": "33505a",
+            "image": "assets/images/tesla.jpg"
+        },
+        {
+            "name": "Amazon",
+            "tagline": "Earth's most customer centric...",
+            "tagline2": "Earth's most customer centric-company.",
+            "desc": "Amazon.com, Inc. is an American multinational technology company focusing on e-commerce, cloud computing, online advertising, digital streaming, and artificial intelligence.",
+            "valuation": "$923.5 billion",
+            "color": "33505a",
+            "image": "assets/images/amazon.jpg"
+        },
+        {
+            "name": "NASA",
+            "tagline": "At NASA, we make Air & Space...",
+            "tagline2": "At NASA, we make Air & Space available for everyone.",
+            "desc": "National Administrative Space Association(NASA) is a U.S. government agency that is responsible for science and technology related to air and space. The Space Age started in 1957 with the launch of the Soviet satellite Sputnik.",
+            "valuation": "$71.2 billion",
+            "color": "33505a",
+            "image": "assets/images/nasa.jpg"
+        },
+        {
+            "name": "YouTube",
+            "tagline": "Broadcast Yourself",
+            "tagline2": "Broadcast Yourself",
+            "desc": "YouTube is an American online video sharing and social media platform headquartered in San Bruno, California.",
+            "valuation": "$180 billion",
+            "color": "33505a",
+            "image": "assets/images/youtube.webp"
+        },
+        {
+            "name": "Walmart",
+            "tagline": "Save Money. Live Better.",
+            "tagline2": "Save Money. Live Better.",
+            "desc": "Walmart is an American multinational retail corporation that operates a chain of hypermarkets (also called supercenters), discount department stores, and grocery stores from the United States, headquartered in Bentonville, Arkansas.",
+            "valuation": "$576 billion",
+            "color": "33505a",
+            "image": "assets/images/walmartt.png"
+        },
+        {
+            "name": "boAt",
+            "tagline": "plug into nirvana",
+            "tagline2": "plug into nirvana",
+            "desc": "BoAt is an India-based company which was incorporated in November 2013. BoAt markets earphones, headphones stereos, travel chargers, and premium rugged cables.",
+            "valuation": "$130.6 billion",
+            "color": "33505a",
+            "image": "assets/images/boatt.png"
+        },
+        {
+            "name": "PhonePay",
+            "tagline": "Karte Ja. Badhte Ja",
+            "tagline2": "Karte Ja. Badhte Ja",
+            "desc": "A Payments App built for India, by Indians! whose Vision is to build India's largest transaction platform anchored on payments.",
+            "valuation": "$86 million",
+            "color": "33505a",
+            "image": "assets/images/phonepay.webp"
+        },
+        {
+            "name": "TATA",
+            "tagline": "Integrity, Responsibility, Excellence...",
+            "tagline2": "to give you a better experience.",
+            "desc": "India's largest conglomerate, with products and services in over 150 countries, and operations in 100 countries across six continents. India's multinational conglomerate company headquartered in Mumbai.",
+            "valuation": "$240 billion",
+            "color": "33505a",
+            "image": "assets/images/tata.webp"
+        },
+        {
+            "name": "PayPal",
+            "tagline": "A global community working together...",
+            "tagline2": "A global community working together to make financial services and commerce more convinient, affordable, and secure.",
+            "desc": "PayPal, American e-commerce company formed in March 2000 that specializes in Internet money transfers.",
+            "valuation": "$86.9 billion",
+            "color": "33505a",
+            "image": "assets/images/paypal.jpg"
+        },
+        {
+            "name": "Adobe",
+            "tagline": "Together, we create change.",
+            "tagline2": "Together, we create change",
+            "desc": "Adobe Systems Incorporated, is an American multinational computer software company incorporated in Delaware[3] and headquartered in San Jose, California.",
+            "valuation": "$133 billion",
+            "color": "33505a",
+            "image": "assets/images/adobe.webp"
+        },
+        {
+            "name": "Volkswagen",
+            "tagline": "Das Auto",
+            "tagline2": "Das Auto",
+            "desc": "Volkswagen Group, also called Volkswagen AG, major German automobile manufacturer, founded by the German government in 1937 to mass-produce a low-priced “people's car.” Headquarters are in Wolfsburg, Germany.",
+            "valuation": "$272 billion",
+            "color": "33505a",
+            "image": "assets/images/volkswagen.jpg"
+        },
+        {
+            "name": "BMW",
+            "tagline": "Ultimate Driving Machine",
+            "tagline2": "Ultimate Driving Machine",
+            "desc": "Bayerische Motoren Werke(BMW) is a German multinational manufacturer of performance luxury vehicles and motorcycles headquartered in Munich, Bavaria, Germany. It is the world's leading manufacturer of premium automobiles and motorcycles, and provider of premium financial and mobility services.",
+            "valuation": "$45.5 billion",
+            "color": "33505a",
+            "image": "assets/images/bmw.webp"
+        }
+    ]
+}
